@@ -1,0 +1,7 @@
+﻿  Bank-Project.cpp
+C:\c++_project\AlgorithmsProblemSolvingLevel_3\Bank-Project\Bank-Project\Bank-Project.cpp(27,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\c++_project\AlgorithmsProblemSolvingLevel_3\Bank-Project\Bank-Project\Bank-Project.cpp(400,10): warning C4129: 'B': unrecognized character escape sequence
+C:\c++_project\AlgorithmsProblemSolvingLevel_3\Bank-Project\Bank-Project\Bank-Project.cpp(290): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\c++_project\AlgorithmsProblemSolvingLevel_3\Bank-Project\Bank-Project\Bank-Project.cpp(322): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\c++_project\AlgorithmsProblemSolvingLevel_3\Bank-Project\Bank-Project\Bank-Project.cpp(450): warning C4715: 'DepositBalancesToClientByAccountNumber': not all control paths return a value
+  Bank-Project.vcxproj -> C:\c++_project\AlgorithmsProblemSolvingLevel_3\Bank-Project\x64\Debug\Bank-Project.exe
